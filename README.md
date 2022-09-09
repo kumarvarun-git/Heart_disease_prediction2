@@ -1,1 +1,1 @@
-# kidenty_disease_prediction2
+# Heart_disease_prediction2
